@@ -13,9 +13,9 @@ export class AppComponent {
 
     let config: FrameworkConfigSettings = {
       socialIcons: [
-        { imageFile: 'assets/social-fb-bw-png', alt: 'Facebook', link: 'www.facebook.com' },
-        { imageFile: 'assets/social-google-bw-png', alt: 'Google', link: 'www.google.com' },
-        { imageFile: 'assets/social-twitter-bw-png', alt: 'Twitter', link: 'www.twitter.com' },
+        { imageFile: 'assets/social-fb-bw.png', alt: 'Facebook', link: 'www.facebook.com' },
+        { imageFile: 'assets/social-google-bw.png', alt: 'Google', link: 'www.google.com' },
+        { imageFile: 'assets/social-twitter-bw.png', alt: 'Twitter', link: 'www.twitter.com' },
       ],
       showLanguageSelector: true,
       showUserControls: true,
